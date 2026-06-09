@@ -1,0 +1,105 @@
+match_id,date,stage,group,home_team,away_team,venue,city
+1,2026-06-11,group,A,Mexico,South Africa,Estadio Azteca,Mexico City
+2,2026-06-11,group,A,South Korea,Czech Republic,Estadio Akron,Zapopan
+3,2026-06-12,group,B,Canada,Bosnia and Herzegovina,BMO Field,Toronto
+4,2026-06-12,group,D,United States,Paraguay,SoFi Stadium,Inglewood
+5,2026-06-13,group,B,Qatar,Switzerland,Levi's Stadium,Santa Clara
+6,2026-06-13,group,C,Brazil,Morocco,MetLife Stadium,East Rutherford
+7,2026-06-13,group,C,Haiti,Scotland,Gillette Stadium,Foxborough
+8,2026-06-13,group,D,Australia,Turkey,BC Place,Vancouver
+9,2026-06-14,group,E,Germany,Curaçao,NRG Stadium,Houston
+10,2026-06-14,group,F,Netherlands,Japan,AT&T Stadium,Arlington
+11,2026-06-14,group,E,Ivory Coast,Ecuador,Lincoln Financial Field,Philadelphia
+12,2026-06-14,group,F,Sweden,Tunisia,Estadio BBVA,Guadalupe
+13,2026-06-15,group,H,Spain,Cape Verde,Mercedes-Benz Stadium,Atlanta
+14,2026-06-15,group,G,Belgium,Egypt,Lumen Field,Seattle
+15,2026-06-15,group,H,Saudi Arabia,Uruguay,Hard Rock Stadium,Miami Gardens
+16,2026-06-15,group,G,Iran,New Zealand,SoFi Stadium,Inglewood
+17,2026-06-16,group,I,France,Senegal,MetLife Stadium,East Rutherford
+18,2026-06-16,group,I,Iraq,Norway,Gillette Stadium,Foxborough
+19,2026-06-16,group,J,Argentina,Algeria,Arrowhead Stadium,Kansas City
+20,2026-06-16,group,J,Austria,Jordan,Levi's Stadium,Santa Clara
+21,2026-06-17,group,K,Portugal,DR Congo,NRG Stadium,Houston
+22,2026-06-17,group,L,England,Croatia,AT&T Stadium,Arlington
+23,2026-06-17,group,L,Ghana,Panama,BMO Field,Toronto
+24,2026-06-17,group,K,Uzbekistan,Colombia,Estadio Azteca,Mexico City
+25,2026-06-18,group,A,Czech Republic,South Africa,Mercedes-Benz Stadium,Atlanta
+26,2026-06-18,group,B,Switzerland,Bosnia and Herzegovina,SoFi Stadium,Inglewood
+27,2026-06-18,group,B,Canada,Qatar,BC Place,Vancouver
+28,2026-06-18,group,A,Mexico,South Korea,Estadio Akron,Zapopan
+29,2026-06-19,group,D,United States,Australia,Lumen Field,Seattle
+30,2026-06-19,group,C,Scotland,Morocco,Gillette Stadium,Foxborough
+31,2026-06-19,group,C,Brazil,Haiti,Lincoln Financial Field,Philadelphia
+32,2026-06-19,group,D,Turkey,Paraguay,Levi's Stadium,Santa Clara
+33,2026-06-20,group,F,Netherlands,Sweden,NRG Stadium,Houston
+34,2026-06-20,group,E,Germany,Ivory Coast,BMO Field,Toronto
+35,2026-06-20,group,E,Ecuador,Curaçao,Arrowhead Stadium,Kansas City
+36,2026-06-20,group,F,Tunisia,Japan,Estadio BBVA,Guadalupe
+37,2026-06-21,group,H,Spain,Saudi Arabia,Mercedes-Benz Stadium,Atlanta
+38,2026-06-21,group,G,Belgium,Iran,SoFi Stadium,Inglewood
+39,2026-06-21,group,H,Uruguay,Cape Verde,Hard Rock Stadium,Miami Gardens
+40,2026-06-21,group,G,New Zealand,Egypt,BC Place,Vancouver
+41,2026-06-22,group,J,Argentina,Austria,AT&T Stadium,Arlington
+42,2026-06-22,group,I,France,Iraq,Lincoln Financial Field,Philadelphia
+43,2026-06-22,group,I,Norway,Senegal,MetLife Stadium,East Rutherford
+44,2026-06-22,group,J,Jordan,Algeria,Levi's Stadium,Santa Clara
+45,2026-06-23,group,K,Portugal,Uzbekistan,NRG Stadium,Houston
+46,2026-06-23,group,L,England,Ghana,Gillette Stadium,Foxborough
+47,2026-06-23,group,L,Panama,Croatia,BMO Field,Toronto
+48,2026-06-23,group,K,Colombia,DR Congo,Estadio Akron,Zapopan
+49,2026-06-24,group,B,Switzerland,Canada,BC Place,Vancouver
+50,2026-06-24,group,B,Bosnia and Herzegovina,Qatar,Lumen Field,Seattle
+51,2026-06-24,group,C,Scotland,Brazil,Hard Rock Stadium,Miami Gardens
+52,2026-06-24,group,C,Morocco,Haiti,Mercedes-Benz Stadium,Atlanta
+53,2026-06-24,group,A,Czech Republic,Mexico,Estadio Azteca,Mexico City
+54,2026-06-24,group,A,South Africa,South Korea,Estadio BBVA,Guadalupe
+55,2026-06-25,group,E,Ecuador,Germany,MetLife Stadium,East Rutherford
+56,2026-06-25,group,E,Curaçao,Ivory Coast,Lincoln Financial Field,Philadelphia
+57,2026-06-25,group,F,Japan,Sweden,AT&T Stadium,Arlington
+58,2026-06-25,group,F,Tunisia,Netherlands,Arrowhead Stadium,Kansas City
+59,2026-06-25,group,D,Turkey,United States,SoFi Stadium,Inglewood
+60,2026-06-25,group,D,Paraguay,Australia,Levi's Stadium,Santa Clara
+61,2026-06-26,group,I,Norway,France,Gillette Stadium,Foxborough
+62,2026-06-26,group,I,Senegal,Iraq,BMO Field,Toronto
+63,2026-06-26,group,H,Cape Verde,Saudi Arabia,NRG Stadium,Houston
+64,2026-06-26,group,H,Uruguay,Spain,Estadio Akron,Zapopan
+65,2026-06-26,group,G,Egypt,Iran,Lumen Field,Seattle
+66,2026-06-26,group,G,New Zealand,Belgium,BC Place,Vancouver
+67,2026-06-27,group,L,Panama,England,MetLife Stadium,East Rutherford
+68,2026-06-27,group,L,Croatia,Ghana,Lincoln Financial Field,Philadelphia
+69,2026-06-27,group,K,Colombia,Portugal,Hard Rock Stadium,Miami Gardens
+70,2026-06-27,group,K,DR Congo,Uzbekistan,Mercedes-Benz Stadium,Atlanta
+71,2026-06-27,group,J,Algeria,Austria,Arrowhead Stadium,Kansas City
+72,2026-06-27,group,J,Jordan,Argentina,AT&T Stadium,Arlington
+73,2026-06-28,R32,,2A,2B,SoFi Stadium,Inglewood
+74,2026-06-29,R32,,1E,3rd-ABCDF,Gillette Stadium,Foxborough
+75,2026-06-29,R32,,1F,2C,Estadio BBVA,Guadalupe
+76,2026-06-29,R32,,1C,2F,NRG Stadium,Houston
+77,2026-06-30,R32,,1I,3rd-CDFGH,MetLife Stadium,East Rutherford
+78,2026-06-30,R32,,2E,2I,AT&T Stadium,Arlington
+79,2026-06-30,R32,,1A,3rd-CEFHI,Estadio Azteca,Mexico City
+80,2026-07-01,R32,,1L,3rd-EHIJK,Mercedes-Benz Stadium,Atlanta
+81,2026-07-01,R32,,1D,3rd-BEFIJ,Levi's Stadium,Santa Clara
+82,2026-07-01,R32,,1G,3rd-AEHIJ,Lumen Field,Seattle
+83,2026-07-02,R32,,2K,2L,BMO Field,Toronto
+84,2026-07-02,R32,,1H,2J,SoFi Stadium,Inglewood
+85,2026-07-02,R32,,1B,3rd-EFGIJ,BC Place,Vancouver
+86,2026-07-03,R32,,1J,2H,Hard Rock Stadium,Miami Gardens
+87,2026-07-03,R32,,1K,3rd-DEIJL,Arrowhead Stadium,Kansas City
+88,2026-07-03,R32,,2D,2G,AT&T Stadium,Arlington
+89,2026-07-04,R16,,WM74,WM77,Lincoln Financial Field,Philadelphia
+90,2026-07-04,R16,,WM73,WM75,NRG Stadium,Houston
+91,2026-07-05,R16,,WM76,WM78,MetLife Stadium,East Rutherford
+92,2026-07-05,R16,,WM79,WM80,Estadio Azteca,Mexico City
+93,2026-07-06,R16,,WM83,WM84,AT&T Stadium,Arlington
+94,2026-07-06,R16,,WM81,WM82,Lumen Field,Seattle
+95,2026-07-07,R16,,WM86,WM88,Mercedes-Benz Stadium,Atlanta
+96,2026-07-07,R16,,WM85,WM87,BC Place,Vancouver
+97,2026-07-09,QF,,WM89,WM90,Gillette Stadium,Foxborough
+98,2026-07-10,QF,,WM93,WM94,SoFi Stadium,Inglewood
+99,2026-07-11,QF,,WM91,WM92,Hard Rock Stadium,Miami Gardens
+100,2026-07-11,QF,,WM95,WM96,Arrowhead Stadium,Kansas City
+101,2026-07-14,SF,,WM97,WM98,AT&T Stadium,Arlington
+102,2026-07-15,SF,,WM99,WM100,Mercedes-Benz Stadium,Atlanta
+103,2026-07-18,third_place,,LM101,LM102,Hard Rock Stadium,Miami Gardens
+104,2026-07-19,final,,WM101,WM102,MetLife Stadium,East Rutherford
