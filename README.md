@@ -119,7 +119,7 @@ Push to GitHub and deploy free on **[Streamlit Community Cloud](https://streamli
 ## 🗺️ Roadmap / status
 
 - [x] **Phase 0** — Workspace, data download, EDA on 49k matches
-- [x] **Phase 1** — 48 teams, 12 groups, 104-match schedule (`groups.csv`, `fixtures.csv`) · squads ⏳
+- [x] **Phase 1** — 48 teams, 12 groups, 104-match schedule (`groups.csv`, `fixtures.csv`, `squads.csv`)
 - [ ] **Phase 2** — Elo + Dixon–Coles model + backtest
 - [ ] **Phase 3** — Monte Carlo tournament simulator
 - [ ] **Phase 4** — Player data + style clustering
