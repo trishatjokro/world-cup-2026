@@ -129,13 +129,13 @@ Push to GitHub and deploy free on **[Streamlit Community Cloud](https://streamli
 
 - [x] **Phase 0** — Workspace, data download, EDA on 49k matches
 - [x] **Phase 1** — 48 teams, 12 groups, 104-match schedule (`groups.csv`, `fixtures.csv`) + 1,245-player squads (`squads.csv`)
-- [ ] **Phase 2a** — Base Elo + Dixon–Coles model + walk-forward backtest harness
+- [x] **Phase 2a** — Base Elo + Dixon–Coles model + walk-forward backtest harness (54.7% acc / 0.201 RPS on WC 2002–2022; beats base-rate decisively)
 - [ ] **Phase 2b** — Shots/xG enhancement layer + hyperparameter tuning loop (validated by replaying 2022)
-- [ ] **Phase 3** — Monte Carlo tournament simulator (re-runs each matchday)
-- [ ] **Phase 4** — Player data + style clustering
+- [x] **Phase 3** — Monte Carlo tournament simulator (10k sims, official bracket + best-thirds slotting, tunable knockout "luck"; writes `predictions.json`)
+- [~] **Phase 4** — Player faces (EA FC, 818/1245 matched) + attributes + clickable face-grid with radar ✅; KMeans playing-style tags pending
 - [ ] **Phase 5** — Prediction-market adapter (Model vs. Market)
 - [ ] **Phase 6** — Retrain-on-new-match pipeline
-- [ ] **Phase 7** — Streamlit dashboard
+- [x] **Phase 7** — Streamlit dashboard (title/knockout odds, group probabilities, match forecasts, squad explorer, calibration tab)
 - [ ] **Phase 8** — Automate (GitHub Actions) + deploy
 
 ---
